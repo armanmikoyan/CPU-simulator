@@ -15,8 +15,3 @@ mov da 92
 mov [10] 56
 mov gim ayb
 add gim 1
-
-
-
-
-
