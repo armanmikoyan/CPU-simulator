@@ -26,7 +26,6 @@ public:
     // Decoding operations and operands and execute
     void decode_execute(int instruction_count,INSTRUCTION* tmp);
 
-
     INSTRUCTION* IP;
 	char* data_segment;
 
